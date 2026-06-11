@@ -1,6 +1,6 @@
 # Rana Raza Mehdi
 
-### AI Research Scientist | Scientific Machine Learning | Deep Learning
+### Ph.D. Candidate in Biomedical Engineering | Scientific Machine Learning | Deep Learning
 
 Building machine learning systems that combine data, physics, and computation to solve real-world scientific and healthcare problems.
 
